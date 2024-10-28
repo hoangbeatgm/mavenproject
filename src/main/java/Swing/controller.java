@@ -17,6 +17,8 @@ public class controller {
 		this.view = view;
 		this.model = model;
 		dao = new thanhvien_dao();
+
+
 	}
 	 
 	 
